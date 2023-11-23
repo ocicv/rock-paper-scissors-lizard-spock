@@ -6,7 +6,7 @@ You have five options to choose from and the rules are as follows: Rock beats sc
 
 The main idea around this game is to interduce more options to the classical version of the game.
 
-![image-of-the-project](assets/pictures/project-image.png)
+![image-of-the-project](assets/images/Home%20screen.png)
 
 ## Features
 
@@ -14,19 +14,25 @@ The main idea around this game is to interduce more options to the classical ver
 
 * Features the name of the game and a scoreboard that will tell you how many times did you beat the computer.
 
-![image-of-the-navigation](assets/pictures/navigation.png)
+![image-of-the-navigation](assets/images/Scoreboard.png)
 
 **Game Options**
 
 * Options Rock, Paper, Scissors, Lizard and Spock
 
-![image-of-the-header](assets/pictures/Header.png)
+![image-of-the-header](assets/images/Options.png)
 
 **Game rules**
 
 * Game rules consists of an image that visually explains the rules and an actual rule book next to the picture.
 
-![image-of-the-about-section](assets/pictures/About.png)
+![image-of-the-about-section](assets/images/Rules.png)
+
+**Final reuslt**
+
+* When you pick an option game will give you a message and decide whether you win or lose
+
+![image-of-the-about-section](assets/images/Result.png)
 
 ## Testing
 
@@ -63,11 +69,16 @@ The main idea around this game is to interduce more options to the classical ver
    * From the source section drop-down menu, select the Master Branch,
    * Once a Master Branch has been selected, the page provided the link to the complete Website.
 
-The live link can be found here: [SWS Yoga Website](https://ocicv.github.io/Yoga-Website/)
+The live link can be found here: [Rock, Paper, Scissors, Lizard, Spock](link)
 
 ## Credits
 
 **Content**
 
-* The video in the video section of the website was taken from [Youtube](https://www.youtube.com/watch?v=Y3SirL0z8xI&t=8s)
-* Images on the website are taken from [Pexels](https://www.pexels.com/search/yoga%20class/)
+* The text for the rulebook was taken from  <https://bigbangtheory.fandom.com/wiki/Rock>,_Paper,_Scissors,_Lizard,_Spock
+
+**Media**
+
+The pictures for the option were taken from @@@link
+
+Resources and tutorials that helped me create this page:
