@@ -69,16 +69,20 @@ The main idea around this game is to interduce more options to the classical ver
    * From the source section drop-down menu, select the Master Branch,
    * Once a Master Branch has been selected, the page provided the link to the complete Website.
 
-The live link can be found here: [Rock, Paper, Scissors, Lizard, Spock](link)
+The live link can be found here: [Rock, Paper, Scissors, Lizard, Spock](https://ocicv.github.io/rock-paper-scissors-lizard-spock/)
 
 ## Credits
 
 **Content**
 
-* The text for the rulebook was taken from  <https://bigbangtheory.fandom.com/wiki/Rock>,_Paper,_Scissors,_Lizard,_Spock
+* The text for the rulebook was taken from  <https://bigbangtheory.fandom.com/wiki/Rock,_Paper,_Scissors,_Lizard,_Spock>
 
 **Media**
 
-The pictures for the option were taken from @@@link
+The pictures for the option were taken from <https://www.akshaybahadur.com/post/rock-paper-scissors-lizard-spock>
 
 Resources and tutorials that helped me create this page:
+<https://realpython.com/python-rock-paper-scissors/>
+https://www.freecodecamp.org/news/python-string-replace-function-in-python-for-substring-substitution/
+https://stackoverflow.com/questions/27337331/how-do-i-make-a-score-counter-in-python
+
