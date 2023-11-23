@@ -13,3 +13,66 @@
         rel="stylesheet">
     <link rel="stylesheet" href="assets/stylesheet.css">
 </head>
+<body>
+    <div class="scoreboard">
+        <div class="title">
+            <h1>Rock Paper Scissors Lizard Spock</h1>
+        </div>
+        <div class="score">
+            <h3>Score</h3>
+            <h1>0</h1>
+        </div>
+        <div class="game-area">
+            <div class="rock">
+                <img src="assets/images/rock.png" alt="rock-icon" onclick="pickAnOption('rock')">
+            </div>
+            <div class="paper">
+                <img src="assets/images/paper.png" alt="paper-icon" onclick="pickAnOption('paper')">
+            </div>
+            <div class="scissors">
+                <img src="assets/images/scissors.png" alt="scissors-icon" onclick="pickAnOption('scissors')">
+            </div>
+            <div class="lizard">
+                <img src="assets/images/lizard.png" alt="lizard-icon" onclick="pickAnOption('lizard')">
+            </div>
+            <div class="spock">
+                <img src="assets/images/spock.png" alt="spock-icon" onclick="pickAnOption('spock')">
+            </div>
+        </div>
+        <div class="result-screen">
+            <div class="your-pick">
+                <h2>YOU PICKED</h2>
+                <div class="user-pick">
+                    <img id='answer' src="assets/images/paper.png" alt="picked-option">
+                </div>
+            </div>
+            <div class="result">
+                <div class="result-message">
+                    <h1>YOU WIN</h1>
+                </div>
+                <div class="again-button" onclick="restartGame()">PLAY AGAIN</div>
+            </div>
+            <div class="computer-pick">
+                <h2>OPONENT PICKED</h2>
+                <div class="oponent-pick">
+                    <img id='comp-answer' src="assets/images/rock.png" alt="oponent-option">
+                </div>
+            </div>
+        </div>
+        <div class="rules">
+            <img src="assets/images/rules.png" alt="rules-image">
+            <div>
+                <h2>Rules of the game</h2>
+                <p>Welcome to Rock, Paper, Scissors, Lizard, Spock game.
+                    each player must choose between one of the five options:
+                    Rock, Paper, Scissors, Lizard, or Spock. Rock beats
+                    scissors and lizard, paper beats rock and spock, scissors
+                    beats paper and lizard, lizard beats spock and paper,
+                    and spock beats scissors and rock.</p>
+            </div>
+        </div>
+    </div>
+    <script src="assets/functionsheet.js"></script>
+</body>
+
+</html>
