@@ -50,7 +50,7 @@ The main idea around this game is to interduce more options to the classical ver
 3. Accessibility
    * I confirmed that the colors and font I used are easy to read and accessible by running it trough lighthouse in devtools.
 
-![image-of-the-project](assets/pictures/Lighthouse-score.png)
+![image-of-the-project](assets/images/Lighthouse%20score.png)
 
 ## Unfixed bugs
 
