@@ -44,7 +44,7 @@ body {
 .score h3 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
-    margin: 10px, 0;
+    margin: 10px 0;
     display: flex;
     align-self: center;
 }
@@ -52,7 +52,7 @@ body {
 .score h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
-    margin: 10px, 0;
+    margin: 10px 0;
     display: flex;
     align-self: center;
 }
